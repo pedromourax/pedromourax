@@ -1,9 +1,10 @@
-## 🙋 Olá eu sou Pedro Lucas, programador Backend!
-  Estudante de programação, entusiasta de tecnologia. Atualmente cursando Análise e desenvolvimento de Sistemas. Apaixonado por inovação e solucão de problemas, buscando transformar ideias em realidade.
+## 🙋 Olá eu sou Pedro Lucas
+# 💎 Programador Backend!
+  Estudante de programação, entusiasta de tecnologia. Atualmente cursando **Análise e desenvolvimento de Sistemas**. Apaixonado por inovação e solucão de problemas, buscando transformar ideias em realidade.
 <div>
   <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=pedromourax&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromourax&layout=compact&langs_count=2&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromourax&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromourax&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
