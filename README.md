@@ -2,7 +2,7 @@
 #### 💎 Programador Backend!
   Estudante de programação, entusiasta de tecnologia. Atualmente cursando **Análise e desenvolvimento de Sistemas**. Apaixonado por inovação e solucão de problemas, buscando transformar ideias em realidade.
 <div>
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=pedromourax">
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=pedromourax&theme=dracula">
   <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromourax&layout=donut-vertical&theme=dracula"/>
 </div>
 
